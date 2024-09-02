@@ -29,8 +29,6 @@ function App() {
           <a 
             key={video.id} 
             href={video.url} 
-            target="_blank" 
-            rel="noopener noreferrer" 
             className="video"
           >
             <div className="videos">
